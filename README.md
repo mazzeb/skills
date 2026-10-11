@@ -62,7 +62,7 @@ deeply, together.
 /pair-with-me <path to a handoff file>
 ```
 
-The skill has `disable-model-invocation: true`, so it only starts when you invoke it.
+The model may also load the skill itself when you ask for a sparring partner, for example inside another skill's session.
 
 ## License
 

@@ -2,7 +2,6 @@
 name: pair-with-me
 description: Think a design or plan through with the user as an equal partner until both agree. Use when the user says "pair with me" or wants a sparring partner.
 argument-hint: "Topic, or the path of a handoff file"
-disable-model-invocation: true
 ---
 
 Pair with me on ARGUMENTS as an equal partner, in prose, no menus. Walk down the decision tree one topic at a time: take first what the others depend on, and finish it — one line on what we agreed — before opening the next.
